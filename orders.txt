@@ -1,4 +1,24 @@
-CPOO2 | Dell | 25000.0 | 2 | 50000.0
-CPOO2 | Dell | 25000.0 | 10 | 250000.0
-CPOO4 | ThinkPad | 16000.0 | 2 | 32000.0
-CP003 | Asus | 30000.0 | 3 | 90000.0
+Order ID: 4eb2256a-0b0f-4698-a42f-b9a1a8eb1b07
+Order Date: Mon Aug 26 14:47:32 ICT 2024
+Customer Information:
+Name: Huy Anh
+Address: Nam Dinh
+Phone Number: 0779282758
+Email: imieifiore711@gmail.com
+Total Price: 120000.00
+Order Details:
+  Order Code: 0d5bec9c-6dcc-41fe-9f59-170889a10966 | Product: HP | Unit: cái | Unit Price: 40000.00 | Quantity: 3
+--------------------------
+
+Order ID: ae021338-de21-4270-bdd0-c04479a68f01
+Order Date: Mon Aug 26 15:01:39 ICT 2024
+Customer Information:
+Name: Tuan
+Address: Hanoi
+Phone Number: 099188383
+Email: tuanlm@gmail.com
+Total Price: 80000.00
+Order Details:
+  Order Code: 65882e19-1586-45fb-aab5-dc3743f7ae77 | Product: Macbook | Unit: cái | Unit Price: 40000.00 | Quantity: 2
+--------------------------
+
